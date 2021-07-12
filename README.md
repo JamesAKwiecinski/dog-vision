@@ -6,7 +6,7 @@
 
 ## An end-to-end project predicting dog breeds from images.
 
-This repository stores an end-to-end deep-learning Jupyter workbook which utilizes transfer learning from the pre-trained neural architecture [MobileNet V2](https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/4) and deep-learning to classify a dog breed from a prescribed image.  The notebook was edited and computed on Google's [Colab](https://colab.research.google.com/), and it is _**highly recommended**_ that you do so as well to utilize a GPU backend, thereby making training about 30x quicker (30 minutes for full training set of 10,000+ images, which you can find [here](https://www.kaggle.com/c/dog-breed-identification/)). The final, fully trained models have been uploaded here as well.
+This repository stores an end-to-end deep-learning Jupyter workbook which utilizes transfer learning from the pre-trained neural architecture [MobileNet V2](https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/4) and deep-learning to classify a dog breed from a prescribed image.  The notebook was edited and computed on Google's [Colab](https://colab.research.google.com/), and it is _**highly recommended**_ that you do so as well to utilize a GPU backend, thereby making training about 30x quicker (30 minutes for full training set of 10,000+ images, which you can find [here](https://www.kaggle.com/c/dog-breed-identification/)). The final, fully trained model have been uploaded here as well.
 
 ### Abstract
 
