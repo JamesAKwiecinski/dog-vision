@@ -17,7 +17,7 @@ We developed a multi-class classifier model using the MobileNet V2 architecture 
 Here's an example of the model predicting the most likely dog breed for some custom test images.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/86231828/125240031-e2ea3c80-e32c-11eb-8459-fbef774d8f58.jpg" width=auto height="300">
+<img src="https://user-images.githubusercontent.com/86231828/125240031-e2ea3c80-e32c-11eb-8459-fbef774d8f58.jpg" width=auto height="250">
 </p>
 
 The notebook can also return the top 10 most likely dog breeds as well.
